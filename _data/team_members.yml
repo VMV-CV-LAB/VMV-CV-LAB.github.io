@@ -246,18 +246,18 @@
   info2: 研究方向：医学多模态辅助诊断
   group: 1
 
-- name: 胡晓龙
-  photo: 胡晓龙-人工智能.jpg
-  info: 人工智能
-  info2: 研究方向：脑机接口
-  group: 1
+#- name: 胡晓龙
+#  photo: 胡晓龙-人工智能.jpg
+#  info: 人工智能
+#  info2: 研究方向：脑机接口
+#  group: 1
 
 
-- name: 李子涵
-  photo: 李子涵-计算机科学与技术-具身智能.jpg
-  info: 计算机科学与技术
-  info2: 研究方向：具身智能
-  group: 1
+#- name: 李子涵
+#  photo: 李子涵-计算机科学与技术-具身智能.jpg
+#  info: 计算机科学与技术
+#  info2: 研究方向：具身智能
+#  group: 1
 
 - name: 孟祥宇
   photo: 孟祥宇-计算机技术-多模态智能体.jpg
