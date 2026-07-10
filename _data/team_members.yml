@@ -96,7 +96,7 @@
   photo: zhangcheng.jpg
   info: 计算机技术专业
   info2: 研究方向：具身智能
-  pub:
+  pub: ACM MM+1
   group: 3
 
 - name: 陈丹阳
@@ -226,6 +226,7 @@
   photo: wuxingzheng.jpg
   info: 农业工程与信息技术专业
   info2: 研究方向：具身智能
+  pub: ACM MM+1
   group: 1
 
 - name: 王子健
