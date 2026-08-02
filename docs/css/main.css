@@ -13758,22 +13758,7 @@ regtext:hover {
   .team-grid .col-sm-6 .member-title {
     font-size: 1rem !important;
   }
-  /* 导师详细信息内联缩小（手机版） */
-  .team-section:first-of-type .member-name {
-    font-size: 1.8rem !important;
-  }
-  .team-section:first-of-type .detail-section h4 {
-    font-size: 1.3rem !important;
-  }
-  .team-section:first-of-type .detail-section p,
-  .team-section:first-of-type .detail-section li {
-    font-size: 0.95rem !important;
-    line-height: 1.6 !important;
-  }
-  .team-section:first-of-type .member-card {
-    min-height: auto !important;
-    padding: 12px !important;
-  }
+
   /* 学僧和合作学者卡片缩小 */
   .team-grid .col-sm-2,
   .team-grid .col-sm-3 {
@@ -14299,77 +14284,6 @@ regtext:hover {
   margin-top: 10px;
 }
 
-/* 左侧导师卡片 */
-.team-section:first-of-type .member-card {
-  padding: 1px 1px;
-  min-height: 650px;
-}
-
-/* 头像保持居中 */
-.team-section:first-of-type .member-photo {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-/* 姓名居中 */
-.team-section:first-of-type .member-name {
-  text-align: center;
-  font-size: 3rem;
-  margin-bottom: 28px;
-}
-
-/* 下面信息全部左对齐 */
-.team-section:first-of-type .member-info {
-  text-align: left;
-}
-
-/* 标题 */
-.team-section:first-of-type .detail-section h4 {
-  font-size: 1.9rem;
-  color: #004098;
-  margin-top: 20px;
-  margin-bottom: 10px;
-  text-align: left;
-}
-
-/* 内容 */
-.team-section:first-of-type .detail-section p,
-.team-section:first-of-type .detail-section li {
-  font-size: 1.45rem;
-  line-height: 1.9;
-  text-align: left;
-  color: #555;
-}
-
-/* 去掉黑点 */
-.team-section:first-of-type .detail-section ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-/* 左侧导师信息整体放大 */
-/* 姓名 */
-.team-section:first-of-type .member-name {
-  font-size: 15rem !important;
-}
-
-/* 小标题：研究方向、联系方式 */
-.team-section:first-of-type .detail-section h4 {
-  font-size: 3rem !important;
-  margin-bottom: 14px;
-}
-
-/* 普通文字 */
-.team-section:first-of-type .detail-section p,
-.team-section:first-of-type .detail-section li {
-  font-size: 2.2rem !important;
-  line-height: 2.2;
-}
-
-/* 链接 */
-.team-section:first-of-type .detail-section a {
-  font-size: 2.2rem !important;
-}
 
 /* 首页两个大卡片标题放大 */
 .content-card .card-header h3 {
