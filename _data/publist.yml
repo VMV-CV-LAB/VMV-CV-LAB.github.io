@@ -1,3 +1,32 @@
+- title: "MitigatingTextual Noise in Multimodal FGVC viaHierarchical Semantic Purification andMulti-Stage Alignment"
+  image: zhangmenghuan_26_temp.png
+  description:
+  authors:
+  link:
+    url:
+    display: Menghuan Zhang#, Qing Cai#. 2026, IEEE Transactions on Image Processing. (CCF A 类期刊)
+  highlight: 1
+  brief: "MitigatingTextual Noise in Multimodal FGVC viaHierarchical Semantic Purification andMulti-Stage Alignment. Menghuan Zhang#, Qing Cai#. 2026, IEEE Transactions on Image Processing. [CCF A]"
+  pdf:
+  code:
+
+
+
+- title: "RWSG: Region-Weighted Semantic Guidance for Pose-Free Sparse Multi-view Reconstruction"
+  image: tanruiqing_26.png
+  description:
+  authors:
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/11622474
+    display: Runqing Tan#, Weiran Li, Shaoming Li, Heng Tong, Cheng Zhang, Fan Zhang, Junyu Dong, Member, IEEE, QingCai#, Member, IEEE. [CCF B, 中科院 SCI 一区 Top 期刊，IF=11.1]
+  highlight: 1
+  brief: "RWSG: Region-Weighted Semantic Guidance for Pose-Free Sparse Multi-view Reconstruction. Runqing Tan, Weiran Li, Shaoming Li, Heng Tong, Cheng Zhang, Fan Zhang, Junyu Dong, Member, IEEE, QingCai, Member, IEEE. [CCF B, 中科院SCI一区Top期刊，IF=11.1]"
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11622474
+  code:
+
+
+
+
 - title: "Multimodal artificial intelligence for disease diagnosis: Advances, applications, and challenges"
   image: wangshaozhe_26.jpg
   description:
@@ -6,7 +35,7 @@
     url: https://www.sciencedirect.com/science/article/pii/S003132032600422X
     display: Shaozhe Wang#, Qing Cai#, Fan Zhang, Cheng Zhang, Yu Liu, Huafeng Li, Junyu Dong, David Zhang. 2026, Pattern Recognition. [CCF B, 中科院SCI一区Top 期刊, IF=8.518]
   highlight: 1
-  brief: "Multimodal artificial intelligence for disease diagnosis: Advances, applications, and challenges. Guihao Yan#, Qing Cai#, Fan Zhang, Cheng Zhang, Zhi Liu. 2026, The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26). [CCF A]"
+  brief: "Multimodal artificial intelligence for disease diagnosis: Advances, applications, and challenges. Shaozhe Wang#, Qing Cai#, Fan Zhang, Cheng Zhang, Yu Liu, Huafeng Li, Junyu Dong, David Zhang. 2026, Pattern Recognition. [CCF B, 中科院SCI一区Top期刊, IF=8.518]"
   pdf: https://www.sciencedirect.com/science/article/pii/S003132032600422X
   code:
 

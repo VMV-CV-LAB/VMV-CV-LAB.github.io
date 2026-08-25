@@ -13758,7 +13758,22 @@ regtext:hover {
   .team-grid .col-sm-6 .member-title {
     font-size: 1rem !important;
   }
-
+  /* 导师详细信息内联缩小（手机版） */
+  .team-section:first-of-type .member-name {
+    font-size: 1.8rem !important;
+  }
+  .team-section:first-of-type .detail-section h4 {
+    font-size: 1.3rem !important;
+  }
+  .team-section:first-of-type .detail-section p,
+  .team-section:first-of-type .detail-section li {
+    font-size: 0.95rem !important;
+    line-height: 1.6 !important;
+  }
+  .team-section:first-of-type .member-card {
+    min-height: auto !important;
+    padding: 12px !important;
+  }
   /* 学僧和合作学者卡片缩小 */
   .team-grid .col-sm-2,
   .team-grid .col-sm-3 {
@@ -14283,7 +14298,6 @@ regtext:hover {
   text-align: center;
   margin-top: 10px;
 }
-
 
 /* 首页两个大卡片标题放大 */
 .content-card .card-header h3 {
