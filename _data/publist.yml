@@ -4,9 +4,9 @@
   authors:
   link:
     url:
-    display: Menghuan Zhang#, Qing Cai#. 2026. [CCF A, 中科院 SCI 一区 Top 期刊，IF=15.3]
+    display: Menghuan Zhang#, Qing Cai#. 2026. (CCF A 类期刊)
   highlight: 1
-  brief: "MitigatingTextual Noise in Multimodal FGVC viaHierarchical Semantic Purification andMulti-Stage Alignment. Menghuan Zhang#, Qing Cai#. 2026, IEEE Transactions on Image Processing. [CCF A, 中科院 SCI 一区 Top 期刊，IF=15.3]"
+  brief: "MitigatingTextual Noise in Multimodal FGVC viaHierarchical Semantic Purification andMulti-Stage Alignment. Menghuan Zhang#, Qing Cai#. 2026, IEEE Transactions on Image Processing. [CCF A]"
   pdf:
   code:
 
@@ -18,9 +18,9 @@
   authors:
   link:
     url: https://ieeexplore.ieee.org/abstract/document/11622474
-    display: Runqing Tan#, Weiran Li, Shaoming Li, Heng Tong, Cheng Zhang, Fan Zhang, Junyu Dong, QingCai#. [CCF B, 中科院 SCI 一区 Top 期刊，IF=11.1]
+    display: Runqing Tan#, Weiran Li, Shaoming Li, Heng Tong, Cheng Zhang, Fan Zhang, Junyu Dong, QingCai#. [中科院 SCI 一区 Top 期刊，IF=11.1]
   highlight: 1
-  brief: "RWSG: Region-Weighted Semantic Guidance for Pose-Free Sparse Multi-view Reconstruction. Runqing Tan, Weiran Li, Shaoming Li, Heng Tong, Cheng Zhang, Fan Zhang, Junyu Dong, QingCai. 2026, IEEE Transactions on Circuits and Systems for Video Technology. [CCF B, 中科院SCI一区Top期刊，IF=11.1]"
+  brief: "RWSG: Region-Weighted Semantic Guidance for Pose-Free Sparse Multi-view Reconstruction. Runqing Tan, Weiran Li, Shaoming Li, Heng Tong, Cheng Zhang, Fan Zhang, Junyu Dong, QingCai. 2026, IEEE Transactions on Circuits and Systems for Video Technology. [中科院SCI一区Top期刊，IF=11.1]"
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11622474
   code:
 
@@ -33,9 +33,9 @@
   authors:
   link:
     url: https://www.sciencedirect.com/science/article/pii/S003132032600422X
-    display: Shaozhe Wang#, Qing Cai#, Fan Zhang, Cheng Zhang, Yu Liu, Huafeng Li, Junyu Dong, David Zhang. 2026, Pattern Recognition. [CCF B, 中科院SCI一区Top 期刊, IF=8.518]
+    display: Shaozhe Wang#, Qing Cai#, Fan Zhang, Cheng Zhang, Yu Liu, Huafeng Li, Junyu Dong, David Zhang. 2026, Pattern Recognition. [中科院SCI一区Top 期刊, IF=8.518]
   highlight: 1
-  brief: "Multimodal artificial intelligence for disease diagnosis: Advances, applications, and challenges. Shaozhe Wang#, Qing Cai#, Fan Zhang, Cheng Zhang, Yu Liu, Huafeng Li, Junyu Dong, David Zhang. 2026, Pattern Recognition. [CCF B, 中科院SCI一区Top期刊, IF=8.518]"
+  brief: "Multimodal artificial intelligence for disease diagnosis: Advances, applications, and challenges. Shaozhe Wang#, Qing Cai#, Fan Zhang, Cheng Zhang, Yu Liu, Huafeng Li, Junyu Dong, David Zhang. 2026, Pattern Recognition. [中科院SCI一区Top期刊, IF=8.518]"
   pdf: https://www.sciencedirect.com/science/article/pii/S003132032600422X
   code:
 
@@ -167,9 +167,9 @@
   authors: 
   link:
     url: https://ieeexplore.ieee.org/abstract/document/10715722
-    display: Fan Zhang, Huiying Liu, Qing Cai*, Chun-Mei Feng, Binglu Wang, Shanshan Wang, Junyu Dong, Zhang David. 2024, IEEE Transactions on Neural Networks and Learning Systems. [CCF B,中科院SCI一区Top 期刊, IF=14.255]
+    display: Fan Zhang, Huiying Liu, Qing Cai*, Chun-Mei Feng, Binglu Wang, Shanshan Wang, Junyu Dong, Zhang David. 2024, IEEE Transactions on Neural Networks and Learning Systems. [中科院SCI一区Top 期刊, IF=14.255]
   highlight: 1
-  brief: "Federated Cross-Incremental Self-Supervised Learning for Medical Image Segmentation. Fan Zhang, Huiying Liu, Qing Cai*, Chun-Mei Feng, Binglu Wang, Shanshan Wang, Junyu Dong, Zhang David. 2024, IEEE Transactions on Neural Networks and Learning Systems. [CCF B,中科院SCI一区Top 期刊, IF=14.255]"
+  brief: "Federated Cross-Incremental Self-Supervised Learning for Medical Image Segmentation. Fan Zhang, Huiying Liu, Qing Cai*, Chun-Mei Feng, Binglu Wang, Shanshan Wang, Junyu Dong, Zhang David. 2024, IEEE Transactions on Neural Networks and Learning Systems. [中科院SCI一区Top 期刊, IF=14.255]"
   code:
   pdf: https://ieeexplore.ieee.org/abstract/document/10715722
 
@@ -179,9 +179,9 @@
   authors: 
   link:
     url: https://ieeexplore.ieee.org/abstract/document/10494542
-    display: Xianglong Wang, Eric Rigall, Xifeng An, Zhihao Li, Qing Cai*, Shu Zhang, and Junyu Dong. 2024, IEEE Transactions on Circuits and Systems for Video Technology. [CCF B, 中科院SCI一区Top 期刊, IF=8.4]
+    display: Xianglong Wang, Eric Rigall, Xifeng An, Zhihao Li, Qing Cai*, Shu Zhang, and Junyu Dong. 2024, IEEE Transactions on Circuits and Systems for Video Technology. [中科院SCI一区Top 期刊, IF=8.4]
   highlight: 1
-  brief: "A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis. Xianglong Wang, Eric Rigall, Xifeng An, Zhihao Li, Qing Cai*, Shu Zhang, and Junyu Dong. 2024, IEEE Transactions on Circuits and Systems for Video Technology. [CCF B, 中科院SCI一区Top 期刊, IF=8.4]"
+  brief: "A New Benchmark and Low Computational Cost Localization Method for Cephalometric Analysis. Xianglong Wang, Eric Rigall, Xifeng An, Zhihao Li, Qing Cai*, Shu Zhang, and Junyu Dong. 2024, IEEE Transactions on Circuits and Systems for Video Technology. [中科院SCI一区Top 期刊, IF=8.4]"
   code:
   pdf: https://ieeexplore.ieee.org/abstract/document/10494542
 
@@ -191,9 +191,9 @@
   authors: 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0031320324001778
-    display: Fan Zhang, Huiying Liu, Jinjiang Wang, Jun Lyu, Qing Cai*, Huafeng Li, Junyu Dong, and David Zhang. 2024, Pattern Recognition. [CCF B, 中科院SCI一区Top 期刊, IF=8.518]
+    display: Fan Zhang, Huiying Liu, Jinjiang Wang, Jun Lyu, Qing Cai*, Huafeng Li, Junyu Dong, and David Zhang. 2024, Pattern Recognition. [中科院SCI一区Top 期刊, IF=8.518]
   highlight: 1
-  brief: "Cross co-teaching for semi-supervised medical image segmentation. Fan Zhang, Huiying Liu, Jinjiang Wang, Jun Lyu, Qing Cai*, Huafeng Li, Junyu Dong, and David Zhang. 2024, Pattern Recognition. [CCF B, 中科院SCI一区Top 期刊, IF=8.518]"
+  brief: "Cross co-teaching for semi-supervised medical image segmentation. Fan Zhang, Huiying Liu, Jinjiang Wang, Jun Lyu, Qing Cai*, Huafeng Li, Junyu Dong, and David Zhang. 2024, Pattern Recognition. [中科院SCI一区Top 期刊, IF=8.518]"
   code:
   pdf: https://www.sciencedirect.com/science/article/pii/S0031320324001778
 
@@ -227,9 +227,9 @@
   authors: 
   link:
     url: https://ieeexplore.ieee.org/abstract/document/10063231
-    display: Jun Lyu, Guangyuan Li, Chengyan Wang, Qing Cai*, Qi Dou, David Zhang and Jing Qin. 2023, IEEE Transactions on Neural Networks and Learning Systems.[CCF B, 中科院SCI一区Top 期刊, IF=14.255]
+    display: Jun Lyu, Guangyuan Li, Chengyan Wang, Qing Cai*, Qi Dou, David Zhang and Jing Qin. 2023, IEEE Transactions on Neural Networks and Learning Systems.[中科院SCI一区Top 期刊, IF=14.255]
   highlight: 1
-  brief: "Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation. Jun Lyu, Guangyuan Li, Chengyan Wang, Qing Cai*, Qi Dou, David Zhang and Jing Qin. 2023, IEEE Transactions on Neural Networks and Learning Systems.[CCF B, 中科院SCI一区Top 期刊, IF=14.255]"
+  brief: "Multi-contrast MRI Super-Resolution via Transformer-empowered Multi-scale Contextual Matching and Aggregation. Jun Lyu, Guangyuan Li, Chengyan Wang, Qing Cai*, Qi Dou, David Zhang and Jing Qin. 2023, IEEE Transactions on Neural Networks and Learning Systems.[中科院SCI一区Top 期刊, IF=14.255]"
   code:
   pdf: https://ieeexplore.ieee.org/abstract/document/10063231
 
@@ -263,9 +263,9 @@
   authors: 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0020025522002468
-    display: Fan Zhang#, Huiying Liu, Chuanshuo Cao, Qing Cai*, David Zhang. 2022, Information Sciences. [CCF B, 中科院SCI一区Top 期刊, IF=8.233]
+    display: Fan Zhang#, Huiying Liu, Chuanshuo Cao, Qing Cai*, David Zhang. 2022, Information Sciences. [中科院SCI一区Top 期刊, IF=8.233]
   highlight: 1
-  brief: "RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise. Fan Zhang#, Huiying Liu, Chuanshuo Cao, Qing Cai*, David Zhang. 2022, Information Sciences. [CCF B, 中科院SCI一区Top 期刊, IF=8.233] "
+  brief: "RVLSM: Robust Variational Level Set Method for Image Segmentation with Intensity Inhomogeneity and High Noise. Fan Zhang#, Huiying Liu, Chuanshuo Cao, Qing Cai*, David Zhang. 2022, Information Sciences. [中科院SCI一区Top 期刊, IF=8.233] "
   code:
   pdf: https://www.sciencedirect.com/science/article/pii/S0020025522002468
 
@@ -299,7 +299,7 @@
   authors: 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0031320319301657
-    display: Qing Cai*, Huiying Liu, Yiming Qian, Sanping Zhou, Jinjun Wang, Yee-Hong Yang. 2019, Pattern Recognition. (CCF B, 中科院SCI一区Top 期刊, IF=8.518)
+    display: Qing Cai*, Huiying Liu, Yiming Qian, Sanping Zhou, Jinjun Wang, Yee-Hong Yang. 2019, Pattern Recognition. [中科院SCI一区Top 期刊, IF=8.518]
   highlight: 1
   brief: 
   code:
@@ -311,7 +311,7 @@
   authors: 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0031320318301729
-    display: Qing Cai*, Huiying Liu, Sanping Zhou, Jingfeng Sun, Jing Li. 2018, Pattern Recognition. (CCF B, 中科院SCI一区Top 期刊, IF=8.518)
+    display: Qing Cai*, Huiying Liu, Sanping Zhou, Jingfeng Sun, Jing Li. 2018, Pattern Recognition. [中科院SCI一区Top 期刊, IF=8.518]
   highlight: 1
   brief: 
   code:
