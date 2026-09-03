@@ -1,12 +1,43 @@
+- title: "US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdominal Scanning"
+  image: zhangcheng_26.png
+  description:
+  authors:
+  link:
+    url:
+    display: Cheng Zhang#, Xingzheng Wu#, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai. 2026, ACM International Conference on Multimedia (CCF A 类会议)
+  highlight: 1
+  brief: "US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdominal Scanning. Cheng Zhang#, Xingzheng Wu#, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai. 2026, ACM International Conference on Multimedia. [CCF A]"
+  pdf:
+  code: https://github.com/VMVLab/US-VLA
+
+- title: "ForceU-VLA: A Force-Aware Vision–Language–Action Model for Embodied Ultrasound Scanning"
+  image: wuxingzheng_26.png
+  description:
+  authors:
+  link:
+    url:
+    display: Xingzheng Wu#, Cheng Zhang#, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai. 2026, ACM International Conference on Multimedia (CCF A 类会议)
+  highlight: 1
+  brief: "ForceU-VLA: A Force-Aware Vision–Language–Action Model for Embodied Ultrasound Scanning. Cheng Zhang#, Xingzheng Wu#, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai. 2026, ACM International Conference on Multimedia. [CCF A]"
+  pdf:
+  code: https://github.com/VMVLab/ForceU-VLA
+
+
+
+
+
+
+
+
 - title: "MitigatingTextual Noise in Multimodal FGVC viaHierarchical Semantic Purification andMulti-Stage Alignment"
   image: zhangmenghuan_26_temp.png
   description:
   authors:
   link:
     url:
-    display: Menghuan Zhang#, Qing Cai#. 2026. (CCF A 类期刊)
+    display: Menghuan Zhang,Qing Cai,Fan Zhang,Guanbin Li,Junyu Dong,David Zhang,Sheng Chen. 2026. (CCF A 类期刊)
   highlight: 1
-  brief: "MitigatingTextual Noise in Multimodal FGVC viaHierarchical Semantic Purification andMulti-Stage Alignment. Menghuan Zhang#, Qing Cai#. 2026, IEEE Transactions on Image Processing. [CCF A]"
+  brief: "MitigatingTextual Noise in Multimodal FGVC viaHierarchical Semantic Purification andMulti-Stage Alignment. Menghuan Zhang,Qing Cai,Fan Zhang,Guanbin Li,Junyu Dong,David Zhang,Sheng Chen. 2026, IEEE Transactions on Image Processing. [CCF A]"
   pdf:
   code:
 
