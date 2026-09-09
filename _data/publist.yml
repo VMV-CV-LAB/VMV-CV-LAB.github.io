@@ -7,7 +7,7 @@
     display: Cheng Zhang#, Xingzheng Wu#, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai. 2026, ACM International Conference on Multimedia (CCF A 类会议)
   highlight: 1
   brief: "US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdominal Scanning. Cheng Zhang#, Xingzheng Wu#, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai. 2026, ACM International Conference on Multimedia. [CCF A]"
-  pdf:
+  pdf: https://arxiv.org/pdf/2608.16074
   code: https://github.com/VMVLab/US-VLA
 
 - title: "ForceU-VLA: A Force-Aware Vision–Language–Action Model for Embodied Ultrasound Scanning"
@@ -19,7 +19,7 @@
     display: Xingzheng Wu#, Cheng Zhang#, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai. 2026, ACM International Conference on Multimedia (CCF A 类会议)
   highlight: 1
   brief: "ForceU-VLA: A Force-Aware Vision–Language–Action Model for Embodied Ultrasound Scanning. Cheng Zhang#, Xingzheng Wu#, Guihao Yan, Xifeng Hu, Zhi Liu, Mei Wu, Qing Cai. 2026, ACM International Conference on Multimedia. [CCF A]"
-  pdf:
+  pdf: https://arxiv.org/pdf/2608.15009
   code: https://github.com/VMVLab/ForceU-VLA
 
 
