@@ -1,3 +1,18 @@
+- title: "SMSPC: Semantic-aware Multi-class Self-supervised Point Cloud Completion"
+  image: kongsongqi_26.png
+  description:
+  authors:
+  link:
+    url:
+    display: Songqi Kong#, Qing Cai#, Shaoming Li, Shiji Qiu, Zuoqi Hu, Xiaojun Chang, Junyu Dong. 2026, IEEE Transactions on Image Processing. (CCF A 类期刊)
+  highlight: 1
+  brief: "SMSPC: Semantic-aware Multi-class Self-supervised Point Cloud Completion. Songqi Kong#, Qing Cai#, Shaoming Li, Shiji Qiu, Zuoqi Hu, Xiaojun Chang, Junyu Dong. 2026, IEEE Transactions on Image Processing. [CCF A]"
+  pdf:
+  code:
+
+
+
+
 - title: "US-VLA: An Ultrasound Vision-Language-Action Model for Embodied Abdominal Scanning"
   image: zhangcheng_26.png
   description:
